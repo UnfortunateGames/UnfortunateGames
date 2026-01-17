@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @UnfortunateGames
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ElectricSplash
 
-<!---
-UnfortunateGames/UnfortunateGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-also im new so come here if you want to bully me
-and I know jsons and just ok 
+## I like
+
+- Low Level Code.
+- Technical side of things.
+- Code going brr.
+
+## What I'm learning
+
+- Refining C, C++, and Rust skills
+- Libraries from said languages
+
+## Collaborating in
+
+- Nothing yet!
+
+## How to reach me
+
+- No.
