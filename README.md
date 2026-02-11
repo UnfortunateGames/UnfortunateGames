@@ -1,20 +1,20 @@
-# ElectricSplash
+# Hi!!1!
 
-## I like
+## What I like
 
 - Low Level Code.
 - Technical side of things.
-- Code going brr.
+- Learning new stuff!
 
 ## What I'm learning
 
-- Refining C, C++, and Rust skills
-- Libraries from said languages
+- Refining C, C++, and Rust skills.
+- Libraries from said languages.
 
 ## Collaborating in
 
-- Nothing yet!
+`Nothing yet!`
 
 ## How to reach me
 
-- No.
+> No.
