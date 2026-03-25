@@ -1,4 +1,4 @@
-# Hi!!1!
+# ElectricSplash
 
 ## What I like
 
@@ -13,8 +13,12 @@
 
 ## Collaborating in
 
-`Nothing yet!`
+- ...
+
+> Nothing yet!
 
 ## How to reach me
+
+- ...
 
 > No.
